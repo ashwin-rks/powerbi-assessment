@@ -1,0 +1,87 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 0,
+            "y": 63
+          },
+          "nodeIndex": "snowball_output",
+          "nodeLineageTag": "84948187-e863-4204-94d1-0b4193b9df83",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 718,
+            "y": 0
+          },
+          "nodeIndex": "Calendar",
+          "nodeLineageTag": "69e7f8f4-4b06-43c6-9f64-47712ec75837",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 718,
+            "y": 291
+          },
+          "nodeIndex": "Product",
+          "nodeLineageTag": "5df06f1d-1f8f-44ec-98bb-bcd0445b9e7d",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 407
+          },
+          "nodeIndex": "Invoice Data",
+          "nodeLineageTag": "19c800ee-3c83-4b9b-a155-899210f8e3e9",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 317,
+            "y": 413
+          },
+          "nodeIndex": "customer",
+          "nodeLineageTag": "703a2f98-847c-4c6c-ae46-6a0c6ef40005",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 100,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
+}
